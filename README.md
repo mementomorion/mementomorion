@@ -1,9 +1,11 @@
 Hi, I’m Maxim
-- 👀 I’m interested in QA engineering and Code Programming
-- 🌱 I’m currently learning JS frameworks, QA and Automatization of QA, where I use my skills at JS, JIRA, PYTHON, FIGMA, POSTMAN and DEVTOOLS
+- QA / AQA Engineer
+- Specializations: Programmer, Developer, Tester, Automizer
+
+- Steck: PY, JS, AI
 - 📫 How to reach me:
     - Email: max.kudeykin@gmail.com
-	- My resume: [CLICK](https://drive.google.com/file/d/1bmLxobY-Xfm5OYF7KjQdsTPlbD03Xaql/view?usp=sharing)
+    - My resume: [CLICK]([https://drive.google.com/file/d/1bmLxobY-Xfm5OYF7KjQdsTPlbD03Xaql/view?usp=sharing](https://mementomorion.github.io/AI_show/))
 
 <!---
 mementomorion/mementomorion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
