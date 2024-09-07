@@ -11,7 +11,7 @@ Hi, I’m Maxim
 - Steck: PY, JS, AI
 - 📫 How to reach me:
     - Email: max.kudeykin@gmail.com
-    - My resume: [CLICK]([https://drive.google.com/file/d/1bmLxobY-Xfm5OYF7KjQdsTPlbD03Xaql/view?usp=sharing](https://mementomorion.github.io/AI_show/)])
+    - My resume: https://mementomorion.github.io/AI_show/
  
 - Current development vector: Automation, bots, artificial intelligence, cybersecurity, networking
 
