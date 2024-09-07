@@ -15,7 +15,7 @@ Hi, I’m Maxim
  
 - Current development vector: Automation, bots, artificial intelligence, cybersecurity, networking
 
-My products: Voice assaistent for calls, STEAM trade bot, CSGO bot farm panel 
+My products: AI voice assaistent for calls, STEAM trade bot, CSGO bot farm panel 
 
 <!---
 mementomorion/mementomorion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
